@@ -4,7 +4,7 @@
 ![KwonDoRyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=KwonDoRyoung&theme=ambient_gradient&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KwonDoRyoung&layout=compact&theme=ambient_gradient)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KwonDoRyoung&repo=github-readme-stats&theme=ambient_gradient)](https://github.com/KwonDoRyoung/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KwonDoRyoung&repo=template&theme=ambient_gradient)](https://github.com/KwonDoRyoung/template)
 
 <!--
 **KwonDoRyoung/KwonDoRyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
