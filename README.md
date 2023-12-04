@@ -2,7 +2,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KwonDoRyoung&theme=ambient_gradient&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KwonDoRyoung&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KwonDoRyoung&layout=ambient_gradient&theme=tokyonight)
 
 <!--
 **KwonDoRyoung/KwonDoRyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
