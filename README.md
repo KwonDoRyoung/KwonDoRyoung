@@ -1,5 +1,6 @@
-### Hi there 👋
+Expert in Artificial Intelligence for Medical Vision
 
+Hello, I'm Doyoung Kwon. My expertise lies in the field of artificial intelligence focused on medical vision, with a specific emphasis on Bone X-rays, Chest X-rays, Brain CT scans, and more. I am dedicated to advancing the field through in-depth research, utilizing diverse medical datasets to address real-world challenges. My current research is geared towards developing innovative technologies and methods that contribute to the diagnosis and treatment of patients. I am committed to making impactful strides in the realm of medical image analysis, striving to provide practical solutions for healthcare. 
 
 ![KwonDoRyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=KwonDoRyoung&theme=chartreuse-dark&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KwonDoRyoung&layout=compact&theme=chartreuse-dark)
